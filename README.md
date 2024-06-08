@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Babs20200
-- 👀 I’m interested in ... Java Script, Node Js, Angular, Fluterwave, Phyton, Php.....
-- 🌱 I’m currently learning ... node Js
+- 👀 I’m interested in ... Python,Java Script, Node Js, Angular, Fluter, Php.....
+- 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... any project 
 - 📫 How to reach me ... babstunex811@gmail.com
 - @  https://syntyech.com/my-portfolio/
