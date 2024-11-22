@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python,Java Script, Node Js, Angular, Fluter, Php.....
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... any project 
-- 📫 How to reach me ... babstunex811@gmail.com
+- 📫 How to reach me ... babstunex8111@gmail.com
 - @  https://syntyech.com/my-portfolio/
 
 <!---
